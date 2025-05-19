@@ -27,4 +27,11 @@ A visually engaging website featuring a smooth parallax scrolling effect to crea
 - JavaScript (for scroll interactivity)
 
 
+## ✍️ How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/lelixn/parallax-website.git
+
+
 
