@@ -26,5 +26,5 @@ A visually engaging website featuring a smooth parallax scrolling effect to crea
 - CSS3 (with animations and transitions)
 - JavaScript (for scroll interactivity)
 
-## 📂 Folder Structure
+
 
