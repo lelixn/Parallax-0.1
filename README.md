@@ -8,9 +8,11 @@ A visually engaging website featuring a smooth parallax scrolling effect to crea
 🔗 [Live Demo]([https://your-live-site-link.com](https://parallax-0-1.vercel.app/))
 
 ## 📸 Preview
+![Screenshot 2025-03-13 103400](https://github.com/user-attachments/assets/ca544999-2929-4479-a265-efef1ce7f1cb)
 
 
-![Screenshot 2025-02-17 225234](https://github.com/user-attachments/assets/62f13cbd-7939-4f47-8142-83575276d265)
+
+
 
 ## 🛠️ Features
 
