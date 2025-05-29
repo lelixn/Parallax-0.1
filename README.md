@@ -34,6 +34,7 @@ A visually engaging website featuring a smooth parallax scrolling effect to crea
 1. Clone the repository:
    ```bash
    git clone https://github.com/lelixn/parallax-website.git
+   ```
 
 
 
